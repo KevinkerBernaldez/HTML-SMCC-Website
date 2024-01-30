@@ -60,7 +60,7 @@ th, td {
 body {
    
    background-image: url(Images/luxa.org-opacity-changed-smcc.jpg);
-   background-repeat: repeat-x
+   background-repeat: repeat;
    background-attachment: fixed;
    border-style: solid ;
     border-color: black;
@@ -69,7 +69,7 @@ body {
 }
 
 .cont {
-
+    
     background-color: gray;
         text-align: center;
         border: 50px;
@@ -90,5 +90,31 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+#ccis {
+    background-color: #05053bf5;
+    border-radius: 15px;
+    padding: 20px;
+    width: 70%;
+    margin: 50px auto;
+    color: white;
+}
+
+#service {
+    background-color: #05053bf5;
+    border-radius: 15px;
+    padding: 20px;
+    width: 70%;
+    margin: 50px auto;
+    color: white;
+}
+#service {
+    background-color: #05053bf5;
+    border-radius: 15px;
+    padding: 20px;
+    width: 70%;
+    margin: 50px auto;
+    color: white;
 }
 
