@@ -1,0 +1,94 @@
+header {
+    text-align: center;
+    border-width: 10px;
+    border-style: solid ;
+    border-color: black;
+    background-color: #05053bf5;
+    
+    
+    font-size: 20px;
+    color: white;
+    margin: 0px;
+    border-radius: 20px;
+   
+}
+
+#styles a  {
+    
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+
+}
+th, td {
+   
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+
+  .container {
+        background-color: whitesmoke;
+        text-align: center;
+        border: 50px;
+        margin: 0px;
+  }
+  .container h2{
+    background-color: rgb(116, 107, 107);
+    border-style: solid ;
+    border-radius: 50pc;
+    text-shadow: 50px;
+    align-items: center;
+  }
+
+  .vmgo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.policy {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+body {
+   
+   background-image: url(Images/luxa.org-opacity-changed-smcc.jpg);
+   background-repeat: repeat-x
+   background-attachment: fixed;
+   border-style: solid ;
+    border-color: black;
+    
+    
+}
+
+.cont {
+
+    background-color: gray;
+        text-align: center;
+        border: 50px;
+        margin: 0px;
+
+}
+.cont h2{
+
+    border-style: solid;
+    border-radius: 40px;
+
+}
+
+
+
+.ccislogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
